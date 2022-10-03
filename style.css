@@ -1,0 +1,61 @@
+body {
+    background-color: wheat;
+}
+h1 {
+    color:sienna
+}
+h2 {
+    color:tomato
+}
+h3 {
+    color:olivedrab
+}
+button {
+    height: 150px;
+    width: 600px;
+}
+.Alt {
+    display: flex;
+    flex-direction: column;
+    height: 3000px;
+}
+.Tom_side_h {
+    width: 125px;
+}
+.Tom_side_v {
+    width: 275px;
+}
+.Home {
+    display: flex;
+    height: 200px;    
+}
+.Header {
+    align-content: center;
+}
+.Nav {
+    display: flex;
+    flex-direction: column;
+}
+.Tomt {
+    height: 50px;
+}
+.Pris {
+    height: 30px;
+}
+.Info {
+    display: flex;
+    flex-direction: row;
+    height: 1500px;
+}
+.Venstre-div {
+    width: 50% ;
+}
+.Høyre-div {
+    width: 50% ;
+}
+.bilde {
+    width: 20% ;
+    
+    height: 20% ;
+}
+

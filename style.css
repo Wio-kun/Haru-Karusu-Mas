@@ -17,7 +17,6 @@ button {
 .Alt {
     display: flex;
     flex-direction: column;
-    height: 3000px;
 }
 .Tom_side_h {
     width: 125px;
@@ -51,7 +50,7 @@ button {
 .Info {
     display: flex;
     flex-direction: row;
-    height: 1500px;
+    margin-bottom: 3000px;
 }
 .Venstre-div {
     width: 50% ;
@@ -59,9 +58,21 @@ button {
 .Høyre-div {
     width: 50% ;
 }
+.Product_div {
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+}
+.bilde_div {
+    display: flex;
+    justify-content: center;
+}
+.scam {
+    align-self: center;
+    width: 900px;
+}
 .bilde {
-    width: 20% ;
-    height: 20% ;
+    height: 250px ;
 }
 iframe {
     align-self: center;
@@ -70,6 +81,9 @@ iframe {
     text-align: center;
 }
 .Product {
+    text-align: center;
+}
+.Product_price {
     text-align: center;
 }
 .Price {

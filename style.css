@@ -12,7 +12,7 @@ h3 {
 }
 button {
     height: 150px;
-    width: 600px;
+    width: 550px;
 }
 .Alt {
     display: flex;
@@ -24,6 +24,12 @@ button {
 }
 .Tom_side_v {
     width: 275px;
+}
+.Tom_h {
+    width: 50px;
+}
+.Tom_v {
+    width: 50px;
 }
 .Home {
     display: flex;
@@ -55,7 +61,20 @@ button {
 }
 .bilde {
     width: 20% ;
-    
     height: 20% ;
 }
-
+iframe {
+    align-self: center;
+}
+.Ad {
+    text-align: center;
+}
+.Product {
+    text-align: center;
+}
+.Price {
+    text-align: center;
+}
+.Product_info {
+    text-align: center;
+}

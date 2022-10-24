@@ -13,10 +13,28 @@ h3 {
 button {
     height: 150px;
     width: 550px;
+    background-color: khaki;
+}
+.Chungus {
+    background-color: unset;
+    width: fit-content;
+    height: fit-content;
+}
+.Product_link {
+    background-color: unset;
+    width: fit-content;
+    height: 40px;
+}
+.Produkt_link_div {
+    display: flex;
+    justify-content: center;
 }
 .Alt {
     display: flex;
     flex-direction: column;
+}
+.mellomrom {
+    width: 5px;
 }
 .Tom_side_h {
     width: 125px;
@@ -41,8 +59,18 @@ button {
     display: flex;
     flex-direction: column;
 }
+.Nav_bottom {
+    display: flex;
+    justify-content: center;
+}
 .Tomt {
     height: 50px;
+}
+.Tomt_liten {
+    height: 10px;
+}
+.Tomt_stor {
+    height: 100px;
 }
 .Pris {
     height: 30px;
@@ -51,6 +79,10 @@ button {
     display: flex;
     flex-direction: row;
     margin-bottom: 3000px;
+}
+.table {
+    display: flex;
+    justify-content: center;
 }
 .Venstre-div {
     width: 50% ;
@@ -73,6 +105,21 @@ button {
 }
 .bilde {
     height: 250px ;
+}
+.bilde-small {
+    height: 100px;
+}
+td {
+    height: 110px;
+    width: 200px;
+}
+tr {
+    height: 110px;
+    width: 600px;
+}
+.center {
+    display: flex;
+    justify-content: center;
 }
 iframe {
     align-self: center;
@@ -104,4 +151,14 @@ iframe {
 .cart {
     display: flex;
     justify-content: center;
+}
+.Long {
+    width: 500px;
+}
+.Short {
+    width: 244px;
+}
+.scam {
+    display: flex;
+    align-content: center;
 }
